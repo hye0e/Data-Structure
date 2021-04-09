@@ -1,1 +1,1 @@
-# DataStruct
+# Study Data Structure
